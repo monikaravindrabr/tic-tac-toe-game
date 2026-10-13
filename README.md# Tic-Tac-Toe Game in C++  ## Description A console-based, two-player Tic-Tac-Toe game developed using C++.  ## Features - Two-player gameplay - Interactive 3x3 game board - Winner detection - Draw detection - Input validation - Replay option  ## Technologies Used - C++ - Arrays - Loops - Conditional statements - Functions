@@ -1,0 +1,19 @@
+# Tic-Tac-Toe Game in C++
+
+## Description
+A console-based, two-player Tic-Tac-Toe game developed using C++.
+
+## Features
+- Two-player gameplay
+- Interactive 3x3 game board
+- Winner detection
+- Draw detection
+- Input validation
+- Replay option
+
+## Technologies Used
+- C++
+- Arrays
+- Loops
+- Conditional statements
+- Functions
